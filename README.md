@@ -1,2 +1,1 @@
-# AutomationPractice
-AutomationPractice-CodilityTest
+Repo for serenity BDD structure
