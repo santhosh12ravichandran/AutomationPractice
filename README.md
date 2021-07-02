@@ -1,5 +1,5 @@
-# AutomationPractice
-AutomationPractice-CodilityTest
+# Serenity BDD Framework Structure with AutomationPractice website
+
 
 FrameWork : Serenity-BDD
 WebSite: http://automationpractice.com
